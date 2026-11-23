@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 23 Nov 2026 04:05:42 +0000
+Label: DNSHE Tool
+Origin: DNSHE
+Suite: stable
+MD5Sum:
+ 12babdbe3e0c0eca9f368a720baa23fe              139 Release
+ 5913f13cce65b688db2d5865bae4ed19              584 main/binary-amd64/Packages
+ 3f63305429ac295db1b8d1ddaa7dc82f              429 main/binary-amd64/Packages.gz
+SHA1:
+ 2e544d8f5bb80487e3fc27e7a61a4204e0e6d007              139 Release
+ 5e8cda2a81923c963d37d32c7aab940f6a7d6d45              584 main/binary-amd64/Packages
+ bd712ed3fbce2956b8bf936dcda780e6469d78a9              429 main/binary-amd64/Packages.gz
+SHA256:
+ 9474726a1ca4b8c57b87a8e596b576cc359dbf115aa6e7a960037ede1e041803              139 Release
+ e73f2c2738d9bd62d537327ecfa9bb3f9edab08bae0d46d9a981ddedaca37079              584 main/binary-amd64/Packages
+ 687a42467435d1a9304d95303a68f2acb9aa88762b6eaa5220f5444eaff51ee7              429 main/binary-amd64/Packages.gz
+SHA512:
+ b1e7b132f1b605ad8548004f4df696ba498060b4788e4bdb4efc06d2e92d7835d514f4950cdc6569098a4813b986a16f8e45cb5f02ca32dc98bb38b74bbdca56              139 Release
+ 4a1b4ca4175e40ecdb7c245dc4370c784797060e0e932149edec85f7fc84e917ffb70abb8092e815f53cead4c676f927c69b62d391e0ad554bb9a43b2b07d6f4              584 main/binary-amd64/Packages
+ d6d1a9d1f54c0c7ac5c3351022f66982aae509bdb40c4ef0b39e7f9beb67add1282237009298f477140b7eca6c97403976c37b7b57751cb2e9c15353fa114f20              429 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEHa2p47FU8Sf1uqFrfb+zuhDopVYFAmsDu60ACgkQfb+zuhDo
+pVaENgv+LlBxgGKqyf9F6uU4tQiXyrAHjx8OQCKwpvkCXYESHn2K927yW3FNufVX
+LDGluTHzpqoL7nk0mnGJ2Mo+MPu1c6WVG4Ir4UIbD6fE/2+t3sN3NC0Jx/24pkec
+YZvWwW41rzshWlJosZ55UJf7j+3IbYU3ce79jp9Hown0hJs2mtRzGmXT3vwM/5Dd
+CaMSNGihCMxuoAXpvafBigaD//yS5PjTwRxSk4feaRrMEc0Dmw6sjDU7fCoduuaW
+CJAs8ejzwKpVpgECcT1ZslSIG4G07glDpphxgkA59sm1MxnFoEn+sOEndBy1/YlK
+k48BulcxqytMBwiOTiJbTN0e5P2t2X8cG4VZA9/fW9oFU4xDNu8g1nLsK/oATMex
+s7xcqV2VxFdFTs25Fc9XLzpCq8T3OKwTsrG46oJ+Xufg66FfLmd7h7ExpEjjN0GX
+TfKuQ+3EyCNZCdirQuKBlSL7VajG+CE2+T/gVJ8TFaKwaLQwV4Bq0Mm8BFkAgXhl
+A5tWEeAE
+=10li
+-----END PGP SIGNATURE-----

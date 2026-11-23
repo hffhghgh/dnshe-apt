@@ -1,0 +1,17 @@
+Package: dnshe-tool
+Version: 1.0.0
+Architecture: all
+Maintainer: DNSHE Tool Maintainers
+Depends: nodejs (>= 18)
+Filename: pool/main/d/dnshe-tool/dnshe-tool_1.0.0_all.deb
+Size: 47124
+MD5sum: 4a5e650e20bdcec2724564496d1a5997
+SHA1: 6f5dc29df445edac7740e3e32b0f5f1a90b19299
+SHA256: 9ed804f21c06f4d88f000ad7d2ea46d14cdce84463b899e77ddf8a0ff8b6615f
+Section: net
+Priority: optional
+Homepage: https://github.com/hffhghgh/dnshe-tool
+Description: DNSHE Domain Hub API command-line tool
+ Manage DNSHE domains, DNS records, dynamic DNS, API keys,
+ domain gifts, account quota and WHOIS lookups.
+
